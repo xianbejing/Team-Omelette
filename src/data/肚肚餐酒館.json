@@ -1,0 +1,3929 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.11.2"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "2889_禾xxxx",
+      "attributes": {
+        "label": "2889_禾xxxx",
+        "x": -1379.2252,
+        "y": 4274.7793,
+        "size": 130.45978,
+        "color": "#f3bd90",
+        "degree": 10,
+        "weighted degree": 20.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2972972972972973,
+        "harmonicclosnesscentrality": 0.4545454545454547,
+        "betweenesscentrality": 45.544330768898334,
+        "clustering": 0.6222222222222222,
+        "triangles": 28
+      }
+    },
+    {
+      "key": "2894_Qxxxxxx",
+      "attributes": {
+        "label": "2894_Qxxxxxx",
+        "x": 273.64838,
+        "y": 3839.5237,
+        "size": 110.344826,
+        "color": "#ffffbf",
+        "degree": 8,
+        "weighted degree": 16.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2634730538922156,
+        "harmonicclosnesscentrality": 0.4119588744588743,
+        "betweenesscentrality": 69.31142206797385,
+        "clustering": 0.75,
+        "triangles": 21
+      }
+    },
+    {
+      "key": "2911_慢xxxxxx",
+      "attributes": {
+        "label": "2911_慢xxxxxx",
+        "x": 1247.8473,
+        "y": 3927.176,
+        "size": 95.97701,
+        "color": "#e0ecbd",
+        "degree": 7,
+        "weighted degree": 14.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.24175824175824176,
+        "harmonicclosnesscentrality": 0.37261904761904746,
+        "betweenesscentrality": 13.68138248232617,
+        "clustering": 0.7619047619047619,
+        "triangles": 16
+      }
+    },
+    {
+      "key": "2913_路xxxx",
+      "attributes": {
+        "label": "2913_路xxxx",
+        "x": 894.8808,
+        "y": 2778.8323,
+        "size": 107.47127,
+        "color": "#e0ecbd",
+        "degree": 7,
+        "weighted degree": 14.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2603550295857988,
+        "harmonicclosnesscentrality": 0.3968073593073592,
+        "betweenesscentrality": 0.992804550300026,
+        "clustering": 0.9523809523809523,
+        "triangles": 20
+      }
+    },
+    {
+      "key": "2920_海xxxx",
+      "attributes": {
+        "label": "2920_海xxxx",
+        "x": -1311.2031,
+        "y": 2625.4487,
+        "size": 167.8161,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.32592592592592595,
+        "harmonicclosnesscentrality": 0.5121212121212123,
+        "betweenesscentrality": 179.35711103413468,
+        "clustering": 0.5256410256410257,
+        "triangles": 41
+      }
+    },
+    {
+      "key": "2936_Sxxxx",
+      "attributes": {
+        "label": "2936_Sxxxx",
+        "x": 126.341324,
+        "y": 2334.1228,
+        "size": 107.47127,
+        "color": "#e0ecbd",
+        "degree": 7,
+        "weighted degree": 14.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2603550295857988,
+        "harmonicclosnesscentrality": 0.3968073593073592,
+        "betweenesscentrality": 0.992804550300026,
+        "clustering": 0.9523809523809523,
+        "triangles": 20
+      }
+    },
+    {
+      "key": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "label": "2939_悟xxxxxxxxxxxxxx",
+        "x": -3881.965,
+        "y": 3367.999,
+        "size": 176.43678,
+        "color": "#ed9c79",
+        "degree": 11,
+        "weighted degree": 22.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3548387096774194,
+        "harmonicclosnesscentrality": 0.5037878787878787,
+        "betweenesscentrality": 32.0320862977758,
+        "clustering": 0.8,
+        "triangles": 44
+      }
+    },
+    {
+      "key": "2949_Uxxxxxxxx",
+      "attributes": {
+        "label": "2949_Uxxxxxxxx",
+        "x": 135.16875,
+        "y": 4944.9683,
+        "size": 107.47127,
+        "color": "#e0ecbd",
+        "degree": 7,
+        "weighted degree": 14.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2603550295857988,
+        "harmonicclosnesscentrality": 0.3968073593073592,
+        "betweenesscentrality": 0.992804550300026,
+        "clustering": 0.9523809523809523,
+        "triangles": 20
+      }
+    },
+    {
+      "key": "2952_溫xxx",
+      "attributes": {
+        "label": "2952_溫xxx",
+        "x": -630.735,
+        "y": 3521.2852,
+        "size": 121.83908,
+        "color": "#f9dea7",
+        "degree": 9,
+        "weighted degree": 18.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2953020134228188,
+        "harmonicclosnesscentrality": 0.44318181818181834,
+        "betweenesscentrality": 27.374243743924055,
+        "clustering": 0.6944444444444444,
+        "triangles": 25
+      }
+    },
+    {
+      "key": "2956_陶xxxxxxx",
+      "attributes": {
+        "label": "2956_陶xxxxxxx",
+        "x": -3063.8828,
+        "y": 3760.2432,
+        "size": 185.05746,
+        "color": "#e87b61",
+        "degree": 12,
+        "weighted degree": 24.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35772357723577236,
+        "harmonicclosnesscentrality": 0.515151515151515,
+        "betweenesscentrality": 64.18564897107392,
+        "clustering": 0.7121212121212122,
+        "triangles": 47
+      }
+    },
+    {
+      "key": "2957_瑪xxxxxxx",
+      "attributes": {
+        "label": "2957_瑪xxxxxxx",
+        "x": -2304.5767,
+        "y": 3267.2793,
+        "size": 164.94254,
+        "color": "#ed9c79",
+        "degree": 11,
+        "weighted degree": 22.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3548387096774194,
+        "harmonicclosnesscentrality": 0.5037878787878787,
+        "betweenesscentrality": 36.865248196739486,
+        "clustering": 0.7272727272727273,
+        "triangles": 40
+      }
+    },
+    {
+      "key": "2890_德xxxxxxxx",
+      "attributes": {
+        "label": "2890_德xxxxxxxx",
+        "x": -3477.4258,
+        "y": -2522.6267,
+        "size": 127.586205,
+        "color": "#f9dea7",
+        "degree": 9,
+        "weighted degree": 18.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3826086956521739,
+        "harmonicclosnesscentrality": 0.49393939393939373,
+        "betweenesscentrality": 41.06471922572669,
+        "clustering": 0.75,
+        "triangles": 27
+      }
+    },
+    {
+      "key": "2896_wxxxxxxx",
+      "attributes": {
+        "label": "2896_wxxxxxxx",
+        "x": -2668.273,
+        "y": -1410.9407,
+        "size": 95.97701,
+        "color": "#e0ecbd",
+        "degree": 7,
+        "weighted degree": 14.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3728813559322034,
+        "harmonicclosnesscentrality": 0.4674242424242422,
+        "betweenesscentrality": 25.661300821994413,
+        "clustering": 0.7619047619047619,
+        "triangles": 16
+      }
+    },
+    {
+      "key": "2916_琴xxx",
+      "attributes": {
+        "label": "2916_琴xxx",
+        "x": -1833.9929,
+        "y": -2212.9714,
+        "size": 113.21839,
+        "color": "#f3bd90",
+        "degree": 10,
+        "weighted degree": 20.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.3793103448275862,
+        "harmonicclosnesscentrality": 0.5165043290043289,
+        "betweenesscentrality": 333.26766672844235,
+        "clustering": 0.4888888888888889,
+        "triangles": 22
+      }
+    },
+    {
+      "key": "2925_酒xxx",
+      "attributes": {
+        "label": "2925_酒xxx",
+        "x": -3094.1592,
+        "y": -43.936726,
+        "size": 213.7931,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3893805309734513,
+        "harmonicclosnesscentrality": 0.5310606060606061,
+        "betweenesscentrality": 36.349030910816744,
+        "clustering": 0.7307692307692307,
+        "triangles": 57
+      }
+    },
+    {
+      "key": "2932_Mxxxxx",
+      "attributes": {
+        "label": "2932_Mxxxxx",
+        "x": -3736.1104,
+        "y": -3369.9346,
+        "size": 107.47127,
+        "color": "#ffffbf",
+        "degree": 8,
+        "weighted degree": 16.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3826086956521739,
+        "harmonicclosnesscentrality": 0.48636363636363616,
+        "betweenesscentrality": 73.01550059428362,
+        "clustering": 0.7142857142857143,
+        "triangles": 20
+      }
+    },
+    {
+      "key": "2934_矢xxx",
+      "attributes": {
+        "label": "2934_矢xxx",
+        "x": -4949.332,
+        "y": -1777.3114,
+        "size": 159.1954,
+        "color": "#ed9c79",
+        "degree": 11,
+        "weighted degree": 22.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.411214953271028,
+        "harmonicclosnesscentrality": 0.5329545454545452,
+        "betweenesscentrality": 134.97642624594442,
+        "clustering": 0.6909090909090909,
+        "triangles": 38
+      }
+    },
+    {
+      "key": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "label": "2943_cxxxxxxxxxx",
+        "x": -4275.846,
+        "y": 83.95089,
+        "size": 213.7931,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3893805309734513,
+        "harmonicclosnesscentrality": 0.5310606060606061,
+        "betweenesscentrality": 36.349030910816744,
+        "clustering": 0.7307692307692307,
+        "triangles": 57
+      }
+    },
+    {
+      "key": "2945_九xxx",
+      "attributes": {
+        "label": "2945_九xxx",
+        "x": -3897.6973,
+        "y": -1636.2333,
+        "size": 159.1954,
+        "color": "#ed9c79",
+        "degree": 11,
+        "weighted degree": 22.0,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.411214953271028,
+        "harmonicclosnesscentrality": 0.5329545454545452,
+        "betweenesscentrality": 134.97642624594442,
+        "clustering": 0.6909090909090909,
+        "triangles": 38
+      }
+    },
+    {
+      "key": "2950_星xxxx",
+      "attributes": {
+        "label": "2950_星xxxx",
+        "x": -5046.5083,
+        "y": -440.70355,
+        "size": 205.17241,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4,
+        "harmonicclosnesscentrality": 0.5386363636363637,
+        "betweenesscentrality": 76.65057459836252,
+        "clustering": 0.6923076923076923,
+        "triangles": 54
+      }
+    },
+    {
+      "key": "2958_從xxxx",
+      "attributes": {
+        "label": "2958_從xxxx",
+        "x": -3985.1758,
+        "y": -872.22455,
+        "size": 179.31033,
+        "color": "#e87b61",
+        "degree": 12,
+        "weighted degree": 24.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3963963963963964,
+        "harmonicclosnesscentrality": 0.5272727272727273,
+        "betweenesscentrality": 58.70562929883371,
+        "clustering": 0.6818181818181818,
+        "triangles": 45
+      }
+    },
+    {
+      "key": "2891_富xxx",
+      "attributes": {
+        "label": "2891_富xxx",
+        "x": 4094.788,
+        "y": -1668.3308,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2921_瑪xxxxxxx",
+      "attributes": {
+        "label": "2921_瑪xxxxxxx",
+        "x": 4620.5117,
+        "y": -2897.6084,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2928_神xxxxxxx",
+      "attributes": {
+        "label": "2928_神xxxxxxx",
+        "x": 3472.6863,
+        "y": -3333.9995,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2892_微xxxxxx",
+      "attributes": {
+        "label": "2892_微xxxxxx",
+        "x": 1549.0154,
+        "y": 5312.377,
+        "size": 58.62069,
+        "color": "#68a0b8",
+        "degree": 3,
+        "weighted degree": 6.0,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.43478260869565216,
+        "harmonicclosnesscentrality": 0.5583333333333333,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 3
+      }
+    },
+    {
+      "key": "2914_巷xxxxxxx",
+      "attributes": {
+        "label": "2914_巷xxxxxxx",
+        "x": 2035.0986,
+        "y": 3179.8735,
+        "size": 58.62069,
+        "color": "#68a0b8",
+        "degree": 3,
+        "weighted degree": 6.0,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.43478260869565216,
+        "harmonicclosnesscentrality": 0.5583333333333333,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 3
+      }
+    },
+    {
+      "key": "2941_Cxxxxxxx",
+      "attributes": {
+        "label": "2941_Cxxxxxxx",
+        "x": -937.2103,
+        "y": 5266.391,
+        "size": 58.62069,
+        "color": "#68a0b8",
+        "degree": 3,
+        "weighted degree": 6.0,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.43478260869565216,
+        "harmonicclosnesscentrality": 0.5583333333333333,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 3
+      }
+    },
+    {
+      "key": "2951_參xxxx",
+      "attributes": {
+        "label": "2951_參xxxx",
+        "x": 2633.213,
+        "y": 4509.717,
+        "size": 61.494255,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.625,
+        "harmonicclosnesscentrality": 0.7333333333333333,
+        "betweenesscentrality": 21.0,
+        "clustering": 0.4,
+        "triangles": 4
+      }
+    },
+    {
+      "key": "2893_崑xxxx",
+      "attributes": {
+        "label": "2893_崑xxxx",
+        "x": -1429.6301,
+        "y": -737.5182,
+        "size": 113.21839,
+        "color": "#f9dea7",
+        "degree": 9,
+        "weighted degree": 18.0,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.34375,
+        "harmonicclosnesscentrality": 0.4793831168831168,
+        "betweenesscentrality": 79.16327903858566,
+        "clustering": 0.6111111111111112,
+        "triangles": 22
+      }
+    },
+    {
+      "key": "2902_貓xxxx",
+      "attributes": {
+        "label": "2902_貓xxxx",
+        "x": 1114.2808,
+        "y": -992.67773,
+        "size": 300.0,
+        "color": "#d7191c",
+        "degree": 15,
+        "weighted degree": 30.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.32592592592592595,
+        "harmonicclosnesscentrality": 0.5272997835497836,
+        "betweenesscentrality": 62.82350922639631,
+        "clustering": 0.8285714285714286,
+        "triangles": 87
+      }
+    },
+    {
+      "key": "2909_放xxxxxxxx",
+      "attributes": {
+        "label": "2909_放xxxxxxxx",
+        "x": 342.4056,
+        "y": -1301.0747,
+        "size": 300.0,
+        "color": "#d7191c",
+        "degree": 15,
+        "weighted degree": 30.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.32592592592592595,
+        "harmonicclosnesscentrality": 0.5272997835497836,
+        "betweenesscentrality": 62.82350922639631,
+        "clustering": 0.8285714285714286,
+        "triangles": 87
+      }
+    },
+    {
+      "key": "2930_Axxxxxxxxx",
+      "attributes": {
+        "label": "2930_Axxxxxxxxx",
+        "x": 1364.1165,
+        "y": -1904.0443,
+        "size": 288.50574,
+        "color": "#dc3933",
+        "degree": 14,
+        "weighted degree": 28.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.29333333333333333,
+        "harmonicclosnesscentrality": 0.4903950216450216,
+        "betweenesscentrality": 5.329683076396821,
+        "clustering": 0.9120879120879121,
+        "triangles": 83
+      }
+    },
+    {
+      "key": "2933_賀xxxxx",
+      "attributes": {
+        "label": "2933_賀xxxxx",
+        "x": -203.86855,
+        "y": -697.31976,
+        "size": 300.0,
+        "color": "#d7191c",
+        "degree": 15,
+        "weighted degree": 30.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.32592592592592595,
+        "harmonicclosnesscentrality": 0.5272997835497836,
+        "betweenesscentrality": 62.82350922639631,
+        "clustering": 0.8285714285714286,
+        "triangles": 87
+      }
+    },
+    {
+      "key": "2935_幹xxxxxx",
+      "attributes": {
+        "label": "2935_幹xxxxxx",
+        "x": -596.22455,
+        "y": -1641.8073,
+        "size": 300.0,
+        "color": "#d7191c",
+        "degree": 15,
+        "weighted degree": 30.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.32592592592592595,
+        "harmonicclosnesscentrality": 0.5272997835497836,
+        "betweenesscentrality": 62.82350922639631,
+        "clustering": 0.8285714285714286,
+        "triangles": 87
+      }
+    },
+    {
+      "key": "2947_芎xxxx",
+      "attributes": {
+        "label": "2947_芎xxxx",
+        "x": 409.11087,
+        "y": -2213.7307,
+        "size": 288.50574,
+        "color": "#dc3933",
+        "degree": 14,
+        "weighted degree": 28.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.29333333333333333,
+        "harmonicclosnesscentrality": 0.4903950216450216,
+        "betweenesscentrality": 5.329683076396821,
+        "clustering": 0.9120879120879121,
+        "triangles": 83
+      }
+    },
+    {
+      "key": "2907_避xxxxxxxxxxx",
+      "attributes": {
+        "label": "2907_避xxxxxxxxxxx",
+        "x": -153.07469,
+        "y": 1052.3689,
+        "size": 52.87356,
+        "color": "#68a0b8",
+        "degree": 3,
+        "weighted degree": 6.0,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.21256038647342995,
+        "harmonicclosnesscentrality": 0.30167748917748916,
+        "betweenesscentrality": 43.0,
+        "clustering": 0.3333333333333333,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2895_鶴xxx",
+      "attributes": {
+        "label": "2895_鶴xxx",
+        "x": 5451.0083,
+        "y": 701.659,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2912_羊xxx",
+      "attributes": {
+        "label": "2912_羊xxx",
+        "x": 5141.847,
+        "y": -359.1756,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2926_Bxxxx",
+      "attributes": {
+        "label": "2926_Bxxxx",
+        "x": 5295.244,
+        "y": -1418.5995,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2897_Bxxx",
+      "attributes": {
+        "label": "2897_Bxxx",
+        "x": 4740.4688,
+        "y": 2357.3901,
+        "size": 78.735634,
+        "color": "#c2d9bc",
+        "degree": 6,
+        "weighted degree": 12.0,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.5882352941176471,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 5.416666666666666,
+        "clustering": 0.6666666666666666,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2908_呼xxx",
+      "attributes": {
+        "label": "2908_呼xxx",
+        "x": 4264.536,
+        "y": 1579.0703,
+        "size": 75.86207,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.5555555555555556,
+        "harmonicclosnesscentrality": 0.7,
+        "betweenesscentrality": 0.25,
+        "clustering": 0.9,
+        "triangles": 9
+      }
+    },
+    {
+      "key": "2910_Kxxxx",
+      "attributes": {
+        "label": "2910_Kxxxx",
+        "x": 4047.3147,
+        "y": 3499.405,
+        "size": 78.735634,
+        "color": "#c2d9bc",
+        "degree": 6,
+        "weighted degree": 12.0,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.7142857142857143,
+        "harmonicclosnesscentrality": 0.8,
+        "betweenesscentrality": 12.916666666666666,
+        "clustering": 0.6666666666666666,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2915_Hxxxxxxx",
+      "attributes": {
+        "label": "2915_Hxxxxxxx",
+        "x": 3898.4731,
+        "y": 175.98187,
+        "size": 52.87356,
+        "color": "#4a8db7",
+        "degree": 2,
+        "weighted degree": 4.0,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4,
+        "harmonicclosnesscentrality": 0.5083333333333333,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 1
+      }
+    },
+    {
+      "key": "2918_奢xxx",
+      "attributes": {
+        "label": "2918_奢xxx",
+        "x": 3339.3933,
+        "y": 2887.2878,
+        "size": 70.114944,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 7.333333333333333,
+        "clustering": 0.7,
+        "triangles": 7
+      }
+    },
+    {
+      "key": "2937_Hxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "label": "2937_Hxxxxxxxxxxxxxxxx",
+        "x": 3237.564,
+        "y": 1136.5732,
+        "size": 75.86207,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.5555555555555556,
+        "harmonicclosnesscentrality": 0.7,
+        "betweenesscentrality": 0.25,
+        "clustering": 0.9,
+        "triangles": 9
+      }
+    },
+    {
+      "key": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "label": "2948_Sxxxxxxxxxx",
+        "x": 2679.8176,
+        "y": 1842.6038,
+        "size": 70.114944,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.5555555555555556,
+        "harmonicclosnesscentrality": 0.7,
+        "betweenesscentrality": 2.833333333333333,
+        "clustering": 0.7,
+        "triangles": 7
+      }
+    },
+    {
+      "key": "2898_Gxxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "label": "2898_Gxxxxxxxxxxxxxxxxx",
+        "x": -3841.1638,
+        "y": 955.90314,
+        "size": 256.89655,
+        "color": "#d7191c",
+        "degree": 15,
+        "weighted degree": 30.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4074074074074074,
+        "harmonicclosnesscentrality": 0.5632575757575758,
+        "betweenesscentrality": 118.13943551678354,
+        "clustering": 0.6857142857142857,
+        "triangles": 72
+      }
+    },
+    {
+      "key": "2904_Ixxxxxxxxxxxxxx",
+      "attributes": {
+        "label": "2904_Ixxxxxxxxxxxxxx",
+        "x": -2876.0833,
+        "y": 2389.5857,
+        "size": 205.17241,
+        "color": "#e87b61",
+        "degree": 12,
+        "weighted degree": 24.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35772357723577236,
+        "harmonicclosnesscentrality": 0.515151515151515,
+        "betweenesscentrality": 21.0317453402395,
+        "clustering": 0.8181818181818182,
+        "triangles": 54
+      }
+    },
+    {
+      "key": "2906_飽xxxx",
+      "attributes": {
+        "label": "2906_飽xxxx",
+        "x": -3873.6875,
+        "y": 2081.001,
+        "size": 242.52873,
+        "color": "#dc3933",
+        "degree": 14,
+        "weighted degree": 28.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3793103448275862,
+        "harmonicclosnesscentrality": 0.549621212121212,
+        "betweenesscentrality": 77.4690903189285,
+        "clustering": 0.7362637362637363,
+        "triangles": 67
+      }
+    },
+    {
+      "key": "2931_偉xxxx",
+      "attributes": {
+        "label": "2931_偉xxxx",
+        "x": -2227.9631,
+        "y": 1260.5426,
+        "size": 225.28735,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3728813559322034,
+        "harmonicclosnesscentrality": 0.5344696969696968,
+        "betweenesscentrality": 38.58361497614897,
+        "clustering": 0.782051282051282,
+        "triangles": 61
+      }
+    },
+    {
+      "key": "2938_鸚xxxxx",
+      "attributes": {
+        "label": "2938_鸚xxxxx",
+        "x": -3002.1987,
+        "y": 1473.1359,
+        "size": 225.28735,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3728813559322034,
+        "harmonicclosnesscentrality": 0.5344696969696968,
+        "betweenesscentrality": 38.58361497614897,
+        "clustering": 0.782051282051282,
+        "triangles": 61
+      }
+    },
+    {
+      "key": "2944_娛xxxxxx",
+      "attributes": {
+        "label": "2944_娛xxxxxx",
+        "x": -4936.318,
+        "y": 993.3504,
+        "size": 236.78162,
+        "color": "#dc3933",
+        "degree": 14,
+        "weighted degree": 28.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4036697247706422,
+        "harmonicclosnesscentrality": 0.5518939393939394,
+        "betweenesscentrality": 76.29022903834924,
+        "clustering": 0.7142857142857143,
+        "triangles": 65
+      }
+    },
+    {
+      "key": "2959_花xxxx",
+      "attributes": {
+        "label": "2959_花xxxx",
+        "x": -4738.8413,
+        "y": 2065.731,
+        "size": 225.28735,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35772357723577236,
+        "harmonicclosnesscentrality": 0.5200757575757575,
+        "betweenesscentrality": 9.439394941524675,
+        "clustering": 0.782051282051282,
+        "triangles": 61
+      }
+    },
+    {
+      "key": "2900_月xxxx",
+      "attributes": {
+        "label": "2900_月xxxx",
+        "x": 2691.6702,
+        "y": -4560.42,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2905_揪xx",
+      "attributes": {
+        "label": "2905_揪xx",
+        "x": 1773.4502,
+        "y": -4872.9365,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2917_焰xx",
+      "attributes": {
+        "label": "2917_焰xx",
+        "x": 1095.4792,
+        "y": -5615.1934,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2924_豆x",
+      "attributes": {
+        "label": "2924_豆x",
+        "x": 378.87915,
+        "y": -4723.0166,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2940_青xxxx",
+      "attributes": {
+        "label": "2940_青xxxx",
+        "x": -242.56653,
+        "y": -5603.067,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2946_入x",
+      "attributes": {
+        "label": "2946_入x",
+        "x": -1015.6929,
+        "y": -4917.5513,
+        "size": 78.735634,
+        "color": "#a4c6bb",
+        "degree": 5,
+        "weighted degree": 10.0,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 10
+      }
+    },
+    {
+      "key": "2903_凌xxxxx",
+      "attributes": {
+        "label": "2903_凌xxxxx",
+        "x": 1766.8165,
+        "y": -308.62518,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2919_晃xxxxx",
+      "attributes": {
+        "label": "2919_晃xxxxx",
+        "x": 2310.2227,
+        "y": -1152.4257,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2923_鐵xxxx",
+      "attributes": {
+        "label": "2923_鐵xxxx",
+        "x": 2347.0735,
+        "y": -2078.7422,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2927_臥xxx",
+      "attributes": {
+        "label": "2927_臥xxx",
+        "x": 1806.0999,
+        "y": -2853.7263,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2929_桑xxxxxxx",
+      "attributes": {
+        "label": "2929_桑xxxxxxx",
+        "x": 943.98663,
+        "y": -3108.5842,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2953_迦xxxx",
+      "attributes": {
+        "label": "2953_迦xxxx",
+        "x": 17.352901,
+        "y": -3172.7607,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2954_愛xxxx",
+      "attributes": {
+        "label": "2954_愛xxxx",
+        "x": -546.42334,
+        "y": -2540.69,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "label": "2955_gxxxxxxxxxxx",
+        "x": 756.04224,
+        "y": -110.30341,
+        "size": 274.13794,
+        "color": "#e25a4a",
+        "degree": 13,
+        "weighted degree": 26.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26506024096385544,
+        "harmonicclosnesscentrality": 0.4594787157287156,
+        "betweenesscentrality": 0.0,
+        "clustering": 1.0,
+        "triangles": 78
+      }
+    },
+    {
+      "key": "2942_絆xxx",
+      "attributes": {
+        "label": "2942_絆xxx",
+        "x": -2224.5076,
+        "y": -3849.2559,
+        "size": 50.0,
+        "color": "#2c7bb6",
+        "degree": 1,
+        "weighted degree": 2.0,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.176,
+        "harmonicclosnesscentrality": 0.22518037518037512,
+        "betweenesscentrality": 0.0,
+        "clustering": 0.0,
+        "triangles": 0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "684",
+      "source": "2889_禾xxxx",
+      "target": "2894_Qxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "685",
+      "source": "2889_禾xxxx",
+      "target": "2911_慢xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "686",
+      "source": "2889_禾xxxx",
+      "target": "2913_路xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "687",
+      "source": "2889_禾xxxx",
+      "target": "2920_海xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "688",
+      "source": "2889_禾xxxx",
+      "target": "2936_Sxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "689",
+      "source": "2889_禾xxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "690",
+      "source": "2889_禾xxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "691",
+      "source": "2889_禾xxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "692",
+      "source": "2889_禾xxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "693",
+      "source": "2889_禾xxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "694",
+      "source": "2890_德xxxxxxxx",
+      "target": "2896_wxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "695",
+      "source": "2890_德xxxxxxxx",
+      "target": "2916_琴xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "696",
+      "source": "2890_德xxxxxxxx",
+      "target": "2925_酒xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "697",
+      "source": "2890_德xxxxxxxx",
+      "target": "2932_Mxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "698",
+      "source": "2890_德xxxxxxxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "699",
+      "source": "2890_德xxxxxxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "700",
+      "source": "2890_德xxxxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "701",
+      "source": "2890_德xxxxxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "702",
+      "source": "2890_德xxxxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "703",
+      "source": "2891_富xxx",
+      "target": "2921_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "704",
+      "source": "2891_富xxx",
+      "target": "2928_神xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "705",
+      "source": "2892_微xxxxxx",
+      "target": "2914_巷xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "706",
+      "source": "2892_微xxxxxx",
+      "target": "2941_Cxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "707",
+      "source": "2892_微xxxxxx",
+      "target": "2951_參xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "708",
+      "source": "2893_崑xxxx",
+      "target": "2896_wxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "709",
+      "source": "2893_崑xxxx",
+      "target": "2902_貓xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "710",
+      "source": "2893_崑xxxx",
+      "target": "2909_放xxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "711",
+      "source": "2893_崑xxxx",
+      "target": "2916_琴xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "712",
+      "source": "2893_崑xxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "713",
+      "source": "2893_崑xxxx",
+      "target": "2932_Mxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "714",
+      "source": "2893_崑xxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "715",
+      "source": "2893_崑xxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "716",
+      "source": "2893_崑xxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "718",
+      "source": "2894_Qxxxxxx",
+      "target": "2907_避xxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "719",
+      "source": "2894_Qxxxxxx",
+      "target": "2911_慢xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "720",
+      "source": "2894_Qxxxxxx",
+      "target": "2913_路xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "721",
+      "source": "2894_Qxxxxxx",
+      "target": "2920_海xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "722",
+      "source": "2894_Qxxxxxx",
+      "target": "2936_Sxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "723",
+      "source": "2894_Qxxxxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "724",
+      "source": "2894_Qxxxxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "725",
+      "source": "2895_鶴xxx",
+      "target": "2912_羊xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "726",
+      "source": "2895_鶴xxx",
+      "target": "2926_Bxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "729",
+      "source": "2896_wxxxxxxx",
+      "target": "2916_琴xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "730",
+      "source": "2896_wxxxxxxx",
+      "target": "2932_Mxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "731",
+      "source": "2896_wxxxxxxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "732",
+      "source": "2896_wxxxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "733",
+      "source": "2896_wxxxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "734",
+      "source": "2897_Bxxx",
+      "target": "2908_呼xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "735",
+      "source": "2897_Bxxx",
+      "target": "2910_Kxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "736",
+      "source": "2897_Bxxx",
+      "target": "2915_Hxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "737",
+      "source": "2897_Bxxx",
+      "target": "2918_奢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "738",
+      "source": "2897_Bxxx",
+      "target": "2937_Hxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "739",
+      "source": "2897_Bxxx",
+      "target": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "740",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2904_Ixxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "741",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2906_飽xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "742",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2925_酒xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "743",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2931_偉xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "744",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "745",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "746",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "747",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "748",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "749",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "750",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "751",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "752",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "753",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "754",
+      "source": "2898_Gxxxxxxxxxxxxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "755",
+      "source": "2900_月xxxx",
+      "target": "2905_揪xx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "756",
+      "source": "2900_月xxxx",
+      "target": "2917_焰xx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "757",
+      "source": "2900_月xxxx",
+      "target": "2924_豆x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "758",
+      "source": "2900_月xxxx",
+      "target": "2940_青xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "759",
+      "source": "2900_月xxxx",
+      "target": "2946_入x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "761",
+      "source": "2902_貓xxxx",
+      "target": "2903_凌xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "762",
+      "source": "2902_貓xxxx",
+      "target": "2909_放xxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "763",
+      "source": "2902_貓xxxx",
+      "target": "2916_琴xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "764",
+      "source": "2902_貓xxxx",
+      "target": "2919_晃xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "765",
+      "source": "2902_貓xxxx",
+      "target": "2923_鐵xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "766",
+      "source": "2902_貓xxxx",
+      "target": "2927_臥xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "767",
+      "source": "2902_貓xxxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "768",
+      "source": "2902_貓xxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "769",
+      "source": "2902_貓xxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "770",
+      "source": "2902_貓xxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "771",
+      "source": "2902_貓xxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "772",
+      "source": "2902_貓xxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "773",
+      "source": "2902_貓xxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "774",
+      "source": "2902_貓xxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "776",
+      "source": "2903_凌xxxxx",
+      "target": "2909_放xxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "777",
+      "source": "2903_凌xxxxx",
+      "target": "2919_晃xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "778",
+      "source": "2903_凌xxxxx",
+      "target": "2923_鐵xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "779",
+      "source": "2903_凌xxxxx",
+      "target": "2927_臥xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "780",
+      "source": "2903_凌xxxxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "781",
+      "source": "2903_凌xxxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "782",
+      "source": "2903_凌xxxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "783",
+      "source": "2903_凌xxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "784",
+      "source": "2903_凌xxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "785",
+      "source": "2903_凌xxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "786",
+      "source": "2903_凌xxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "787",
+      "source": "2903_凌xxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "789",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2906_飽xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "790",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2920_海xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "791",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2925_酒xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "792",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2931_偉xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "793",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "794",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "795",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "796",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "797",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "798",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "799",
+      "source": "2904_Ixxxxxxxxxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "801",
+      "source": "2905_揪xx",
+      "target": "2917_焰xx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "802",
+      "source": "2905_揪xx",
+      "target": "2924_豆x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "803",
+      "source": "2905_揪xx",
+      "target": "2940_青xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "804",
+      "source": "2905_揪xx",
+      "target": "2946_入x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "807",
+      "source": "2906_飽xxxx",
+      "target": "2920_海xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "808",
+      "source": "2906_飽xxxx",
+      "target": "2925_酒xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "809",
+      "source": "2906_飽xxxx",
+      "target": "2931_偉xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "810",
+      "source": "2906_飽xxxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "811",
+      "source": "2906_飽xxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "812",
+      "source": "2906_飽xxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "813",
+      "source": "2906_飽xxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "814",
+      "source": "2906_飽xxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "815",
+      "source": "2906_飽xxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "816",
+      "source": "2906_飽xxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "817",
+      "source": "2906_飽xxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "818",
+      "source": "2906_飽xxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "820",
+      "source": "2907_避xxxxxxxxxxx",
+      "target": "2911_慢xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "821",
+      "source": "2907_避xxxxxxxxxxx",
+      "target": "2942_絆xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "823",
+      "source": "2908_呼xxx",
+      "target": "2910_Kxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "824",
+      "source": "2908_呼xxx",
+      "target": "2918_奢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "825",
+      "source": "2908_呼xxx",
+      "target": "2937_Hxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "826",
+      "source": "2908_呼xxx",
+      "target": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "830",
+      "source": "2909_放xxxxxxxx",
+      "target": "2916_琴xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "831",
+      "source": "2909_放xxxxxxxx",
+      "target": "2919_晃xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "832",
+      "source": "2909_放xxxxxxxx",
+      "target": "2923_鐵xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "833",
+      "source": "2909_放xxxxxxxx",
+      "target": "2927_臥xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "834",
+      "source": "2909_放xxxxxxxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "835",
+      "source": "2909_放xxxxxxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "836",
+      "source": "2909_放xxxxxxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "837",
+      "source": "2909_放xxxxxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "838",
+      "source": "2909_放xxxxxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "839",
+      "source": "2909_放xxxxxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "840",
+      "source": "2909_放xxxxxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "841",
+      "source": "2909_放xxxxxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "844",
+      "source": "2910_Kxxxx",
+      "target": "2918_奢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "845",
+      "source": "2910_Kxxxx",
+      "target": "2937_Hxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "846",
+      "source": "2910_Kxxxx",
+      "target": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "847",
+      "source": "2910_Kxxxx",
+      "target": "2951_參xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "851",
+      "source": "2911_慢xxxxxx",
+      "target": "2913_路xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "852",
+      "source": "2911_慢xxxxxx",
+      "target": "2936_Sxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "853",
+      "source": "2911_慢xxxxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "854",
+      "source": "2911_慢xxxxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "856",
+      "source": "2912_羊xxx",
+      "target": "2926_Bxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "860",
+      "source": "2913_路xxxx",
+      "target": "2920_海xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "861",
+      "source": "2913_路xxxx",
+      "target": "2936_Sxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "862",
+      "source": "2913_路xxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "863",
+      "source": "2913_路xxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "865",
+      "source": "2914_巷xxxxxxx",
+      "target": "2941_Cxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "866",
+      "source": "2914_巷xxxxxxx",
+      "target": "2951_參xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "868",
+      "source": "2915_Hxxxxxxx",
+      "target": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "874",
+      "source": "2916_琴xxx",
+      "target": "2932_Mxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "875",
+      "source": "2916_琴xxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "876",
+      "source": "2916_琴xxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "877",
+      "source": "2916_琴xxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "878",
+      "source": "2916_琴xxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "881",
+      "source": "2917_焰xx",
+      "target": "2924_豆x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "882",
+      "source": "2917_焰xx",
+      "target": "2940_青xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "883",
+      "source": "2917_焰xx",
+      "target": "2946_入x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "887",
+      "source": "2918_奢xxx",
+      "target": "2937_Hxxxxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "888",
+      "source": "2918_奢xxx",
+      "target": "2951_參xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "892",
+      "source": "2919_晃xxxxx",
+      "target": "2923_鐵xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "893",
+      "source": "2919_晃xxxxx",
+      "target": "2927_臥xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "894",
+      "source": "2919_晃xxxxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "895",
+      "source": "2919_晃xxxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "896",
+      "source": "2919_晃xxxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "897",
+      "source": "2919_晃xxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "898",
+      "source": "2919_晃xxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "899",
+      "source": "2919_晃xxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "900",
+      "source": "2919_晃xxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "901",
+      "source": "2919_晃xxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "907",
+      "source": "2920_海xxxx",
+      "target": "2931_偉xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "908",
+      "source": "2920_海xxxx",
+      "target": "2936_Sxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "909",
+      "source": "2920_海xxxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "910",
+      "source": "2920_海xxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "911",
+      "source": "2920_海xxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "912",
+      "source": "2920_海xxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "913",
+      "source": "2920_海xxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "914",
+      "source": "2920_海xxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "916",
+      "source": "2921_瑪xxxxxxx",
+      "target": "2928_神xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "921",
+      "source": "2923_鐵xxxx",
+      "target": "2927_臥xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "922",
+      "source": "2923_鐵xxxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "923",
+      "source": "2923_鐵xxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "924",
+      "source": "2923_鐵xxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "925",
+      "source": "2923_鐵xxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "926",
+      "source": "2923_鐵xxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "927",
+      "source": "2923_鐵xxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "928",
+      "source": "2923_鐵xxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "929",
+      "source": "2923_鐵xxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "933",
+      "source": "2924_豆x",
+      "target": "2940_青xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "934",
+      "source": "2924_豆x",
+      "target": "2946_入x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "939",
+      "source": "2925_酒xxx",
+      "target": "2931_偉xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "940",
+      "source": "2925_酒xxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "941",
+      "source": "2925_酒xxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "942",
+      "source": "2925_酒xxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "943",
+      "source": "2925_酒xxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "944",
+      "source": "2925_酒xxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "945",
+      "source": "2925_酒xxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "946",
+      "source": "2925_酒xxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "947",
+      "source": "2925_酒xxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "955",
+      "source": "2927_臥xxx",
+      "target": "2929_桑xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "956",
+      "source": "2927_臥xxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "957",
+      "source": "2927_臥xxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "958",
+      "source": "2927_臥xxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "959",
+      "source": "2927_臥xxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "960",
+      "source": "2927_臥xxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "961",
+      "source": "2927_臥xxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "962",
+      "source": "2927_臥xxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "971",
+      "source": "2929_桑xxxxxxx",
+      "target": "2930_Axxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "972",
+      "source": "2929_桑xxxxxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "973",
+      "source": "2929_桑xxxxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "974",
+      "source": "2929_桑xxxxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "975",
+      "source": "2929_桑xxxxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "976",
+      "source": "2929_桑xxxxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "977",
+      "source": "2929_桑xxxxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "986",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2933_賀xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "987",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "988",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "989",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "990",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "991",
+      "source": "2930_Axxxxxxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "997",
+      "source": "2931_偉xxxx",
+      "target": "2938_鸚xxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "998",
+      "source": "2931_偉xxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "999",
+      "source": "2931_偉xxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1000",
+      "source": "2931_偉xxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1001",
+      "source": "2931_偉xxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1002",
+      "source": "2931_偉xxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1003",
+      "source": "2931_偉xxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1004",
+      "source": "2931_偉xxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1009",
+      "source": "2932_Mxxxxx",
+      "target": "2934_矢xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1010",
+      "source": "2932_Mxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1011",
+      "source": "2932_Mxxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1012",
+      "source": "2932_Mxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1023",
+      "source": "2933_賀xxxxx",
+      "target": "2935_幹xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1024",
+      "source": "2933_賀xxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1025",
+      "source": "2933_賀xxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1026",
+      "source": "2933_賀xxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1027",
+      "source": "2933_賀xxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1034",
+      "source": "2934_矢xxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1035",
+      "source": "2934_矢xxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1036",
+      "source": "2934_矢xxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1037",
+      "source": "2934_矢xxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1038",
+      "source": "2934_矢xxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1050",
+      "source": "2935_幹xxxxxx",
+      "target": "2947_芎xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1051",
+      "source": "2935_幹xxxxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1052",
+      "source": "2935_幹xxxxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1053",
+      "source": "2935_幹xxxxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1059",
+      "source": "2936_Sxxxx",
+      "target": "2949_Uxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1060",
+      "source": "2936_Sxxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1065",
+      "source": "2937_Hxxxxxxxxxxxxxxxx",
+      "target": "2948_Sxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1072",
+      "source": "2938_鸚xxxxx",
+      "target": "2939_悟xxxxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1073",
+      "source": "2938_鸚xxxxx",
+      "target": "2943_cxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1074",
+      "source": "2938_鸚xxxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1075",
+      "source": "2938_鸚xxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1076",
+      "source": "2938_鸚xxxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1077",
+      "source": "2938_鸚xxxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1078",
+      "source": "2938_鸚xxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1086",
+      "source": "2939_悟xxxxxxxxxxxxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1087",
+      "source": "2939_悟xxxxxxxxxxxxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1088",
+      "source": "2939_悟xxxxxxxxxxxxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1089",
+      "source": "2939_悟xxxxxxxxxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1094",
+      "source": "2940_青xxxx",
+      "target": "2946_入x",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1097",
+      "source": "2941_Cxxxxxxx",
+      "target": "2951_參xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1107",
+      "source": "2943_cxxxxxxxxxx",
+      "target": "2944_娛xxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1108",
+      "source": "2943_cxxxxxxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1109",
+      "source": "2943_cxxxxxxxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1110",
+      "source": "2943_cxxxxxxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1111",
+      "source": "2943_cxxxxxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1121",
+      "source": "2944_娛xxxxxx",
+      "target": "2945_九xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1122",
+      "source": "2944_娛xxxxxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1123",
+      "source": "2944_娛xxxxxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1124",
+      "source": "2944_娛xxxxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1125",
+      "source": "2944_娛xxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1135",
+      "source": "2945_九xxx",
+      "target": "2950_星xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1136",
+      "source": "2945_九xxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1153",
+      "source": "2947_芎xxxx",
+      "target": "2953_迦xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1154",
+      "source": "2947_芎xxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1155",
+      "source": "2947_芎xxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1167",
+      "source": "2949_Uxxxxxxxx",
+      "target": "2952_溫xxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1179",
+      "source": "2950_星xxxx",
+      "target": "2958_從xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1180",
+      "source": "2950_星xxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1193",
+      "source": "2952_溫xxx",
+      "target": "2956_陶xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1194",
+      "source": "2952_溫xxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1206",
+      "source": "2953_迦xxxx",
+      "target": "2954_愛xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1207",
+      "source": "2953_迦xxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1220",
+      "source": "2954_愛xxxx",
+      "target": "2955_gxxxxxxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1244",
+      "source": "2956_陶xxxxxxx",
+      "target": "2957_瑪xxxxxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1245",
+      "source": "2956_陶xxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1256",
+      "source": "2957_瑪xxxxxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "1268",
+      "source": "2958_從xxxx",
+      "target": "2959_花xxxx",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    }
+  ]
+}
