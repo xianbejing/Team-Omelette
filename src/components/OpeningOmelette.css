@@ -1,0 +1,335 @@
+/* =========================
+   🎬 Scene 基底（純粹大師白，絕無漸層，工藝級畫布）
+========================= */
+.scene {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* 堅持純固體色，靠結構與線條展現設計感 */
+  background: #ffffff; 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  z-index: 999; /* 確保開場時完美覆蓋主系統 */
+  
+  /* ✨ 新增：為進入系統時的背景變透明做準備 */
+  transition: background 1.2s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* 🔑 轉場核心：當點擊 ENTER 後，釋放畫布背景與點擊攔截 */
+.scene.exit {
+  background: transparent !important;
+  pointer-events: none; /* 讓滑鼠事件完美穿透，後方主系統的圖表、導覽列才點得到 */
+}
+
+/* 🌐 背景設計 1：細緻量子點陣（Dot Matrix）與極細工藝內邊框 */
+.scene::before {
+  content: "";
+  position: absolute;
+  /* 四周留出大氣、呼吸感十足的 50px 邊界 */
+  inset: 50px; 
+  border: 1px solid rgba(15, 23, 42, 0.06); 
+  
+  /* 精密點陣：大小縮減至 1.2px，間距 36px，畫面更顯精緻不突兀 */
+  background-image: radial-gradient(rgba(15, 23, 42, 0.06) 1.2px, transparent 1.2px);
+  background-size: 36px 36px;
+  background-position: center;
+  pointer-events: none;
+  z-index: 0;
+  
+  /* ✨ 新增：淡出過渡 */
+  transition: opacity 1s ease;
+}
+
+/* 🌐 背景設計 2：畫布四角 L 型精密對位線（高級設計感核心） */
+.scene::after {
+  content: "";
+  position: absolute;
+  inset: 38px; /* 剛好包裹在內邊框外圍 */
+  pointer-events: none;
+  z-index: 0;
+  
+  /* 利用雙線性漸層，無中生有畫出四個角落的精密 L 型工程線 */
+  background: 
+    linear-gradient(to right, #0f172a 16px, transparent 16px) top left,
+    linear-gradient(to bottom, #0f172a 16px, transparent 16px) top left,
+    linear-gradient(to left, #0f172a 16px, transparent 16px) top right,
+    linear-gradient(to bottom, #0f172a 16px, transparent 16px) top right,
+    linear-gradient(to right, #0f172a 16px, transparent 16px) bottom left,
+    linear-gradient(to top, #0f172a 16px, transparent 16px) bottom left,
+    linear-gradient(to left, #0f172a 16px, transparent 16px) bottom right,
+    linear-gradient(to top, #0f172a 16px, transparent 16px) bottom right;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: 1px solid transparent; /* 保持結構穩定 */
+  opacity: 0.15; /* 隱隱約約的高級感 */
+  
+  /* ✨ 新增：淡出過渡 */
+  transition: opacity 1s ease;
+}
+
+/* 🔑 轉場核心：進入主系統後，將點陣與 L 型對位線優雅隱藏，還原乾淨的主介面 */
+.scene.exit::before,
+.scene.exit::after {
+  opacity: 0 !important;
+}
+
+/* =========================
+   🌫️ Noise（資料噪聲 - 霧面高級感）
+========================= */
+.noise {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(15, 23, 42, 0.01),
+    rgba(15, 23, 42, 0.01) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+
+  animation: noiseMove 0.2s infinite linear;
+  transition: opacity 1.2s ease;
+}
+
+.noise.show {
+  opacity: 0.5;
+}
+
+/* 🔑 轉場核心：進入系統後關閉噪聲，讓數據大盤清晰呈現 */
+.scene.exit .noise {
+  opacity: 0 !important;
+  transition: opacity 0.8s ease !important;
+}
+
+@keyframes noiseMove {
+  0% { transform: translate(0,0); }
+  100% { transform: translate(-10px, 10px); }
+}
+
+/* =========================
+   🌐 SNA GRAPH LAYER（數據網絡層）
+========================= */
+.graph {
+  position: absolute;
+  inset: 50px;
+  opacity: 0;
+  z-index: 1;
+  transition: all 1.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.graph.show {
+  opacity: 1;
+}
+
+.graph.collapse {
+  transform: scale(0.2); /* 完美適配放大的視覺比例 */
+  filter: blur(6px);
+  opacity: 0;
+  transition: all 1.3s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+/* =========================
+   🟡 NODE（SNA 網絡節點）
+========================= */
+.node {
+  width: 12px;  
+  height: 12px; 
+  border-radius: 50%;
+  background: #f59e0b; /* 大器琥珀橙金 */
+
+  position: absolute;
+  /* 乾淨俐落的實體投影 */
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4);
+
+  transition: all 1.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.graph.collapse .node {
+  transform: translate(0,0);
+}
+
+/* =========================
+   🔗 EDGE（SNA 關係線）
+========================= */
+.edge {
+  position: absolute;
+  height: 1.5px; 
+  background: rgba(217, 119, 6, 0.2);
+
+  transform-origin: left;
+  transition: all 1.2s ease;
+}
+
+/* =========================
+   🧠 中央容器
+========================= */
+.center {
+  position: relative;
+  text-align: center;
+  z-index: 2;
+  margin-top: 250px; /* 拉大字圖間距，營造奢華空間感 */
+  transition: all 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* 🔑 轉場核心：點擊後中央文字與按鈕大氣地向上淡出，把舞台讓給待命的煎蛋 */
+.center.exit {
+  opacity: 0;
+  transform: translateY(-20px); 
+  pointer-events: none; /* 防止轉場期間重複點擊 */
+}
+
+/* =========================
+   🥚 Omelette（吉祥物圖片 - 震撼尺寸與高階雙層影）
+========================= */
+.omelette {
+  width: 440px;  /* 寬度再微調放大，張力十足 */
+  height: 293px; /* 嚴格鎖定 3:2 黃金比例 */
+  object-fit: contain;
+
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+
+  transform: translate(-50%, -50%) scale(0);
+  opacity: 0;
+  z-index: 1000; /* 確保縮小後依然能漂浮在主系統的最上層作為常駐 Logo */
+
+  /* 雙層軟陰影黑科技：第一層大範圍柔和淡化，第二層核心立體，純白背景下絕不顯髒，極具漂浮感 */
+  filter: 
+    drop-shadow(0 35px 60px rgba(15, 23, 42, 0.08))
+    drop-shadow(0 10px 20px rgba(15, 23, 42, 0.04));
+  
+  pointer-events: none;
+
+  /* 使用更高級的高階貝茲曲線，讓上移動作帶有高級跑車般的平滑減速感 */
+  transition: top 1.3s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* 誕生彈性與持續呼吸 */
+.omelette.show {
+  opacity: 1;
+  animation: 
+    eggBirth 1.2s cubic-bezier(0.34, 1.56, 0.64, 1) forwards,
+    floating 4s ease-in-out infinite 1.2s;
+}
+
+/* ✨ 關鍵位移：第 4 秒優雅上移，穩穩盤旋在 TEAM OMELETTE 正上方 */
+.omelette.shift-up {
+  top: 30%;
+}
+
+@keyframes eggBirth {
+  0% { transform: translate(-50%, -50%) scale(0); filter: blur(12px); }
+  60% { transform: translate(-50%, -50%) scale(1.18); filter: blur(0px); } /* 富有生命力的彈性 */
+  85% { transform: translate(-50%, -50%) scale(0.97); }
+  100% { transform: translate(-50%, -50%) scale(1); filter: blur(0px); }
+}
+
+/* 精準的上下浮動，幅度加大，動作放慢，展現大器 */
+@keyframes floating {
+  0%, 100% { margin-top: 0; }
+  50% { margin-top: -16px; } 
+}
+
+/* =========================
+   🚀 ENTER 點擊後：圖跑到左上角待命 (Docking Mode)
+========================= */
+.omelette.aside {
+  /* 飛到左上角內邊框的黃金對齊位置 */
+  top: 95px !important;   
+  left: 125px !important; 
+  
+  /* 縮小成精緻的科技標誌尺寸 (原本是 1，縮小到 0.35) 並且修正置中偏移 */
+  transform: translate(0, 0) scale(0.35) !important; 
+  
+  /* 既然落地待命了，收斂超大陰影，變成俐落的小陰影 */
+  filter: drop-shadow(0 8px 16px rgba(15, 23, 42, 0.08)) !important;
+  
+  /* 覆蓋掉原本的大幅度浮動，換成極其平穩、不打擾使用者操作的「微呼吸」 */
+  animation: asideFloating 4s ease-in-out infinite !important;
+  
+  /* 確保飛行軌跡有高級車過彎的絲滑減速感 */
+  transition: 
+    top 1.2s cubic-bezier(0.25, 1, 0.5, 1),
+    left 1.2s cubic-bezier(0.25, 1, 0.5, 1),
+    transform 1.2s cubic-bezier(0.25, 1, 0.5, 1),
+    filter 1.2s ease !important;
+}
+
+/* 待命專用的微幅呼吸動畫（振幅縮小，保持系統活體感即可） */
+@keyframes asideFloating {
+  0%, 100% { margin-top: 0; }
+  50% { margin-top: -4px; } 
+}
+
+/* =========================
+   🎬 Title（巨幕級排版，銳利現代）
+========================= */
+.title {
+  opacity: 0;
+  transform: translateY(25px);
+  transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.title.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.title h1 {
+  font-size: 4.6rem; /* 超大視覺震撼力 */
+  letter-spacing: 10px; /* 極寬字距，展現頂級美學排版 */
+  color: #0f172a; /* 銳利沉穩的深石板藍黑 */
+  margin: 0;
+  font-weight: 900;
+}
+
+.title p {
+  margin-top: 16px;
+  color: #b45309; /* 香檳琥珀金 */
+  font-weight: 700;
+  letter-spacing: 5px;
+  font-size: 1.2rem; 
+}
+
+/* =========================
+   🚪 ENTER BUTTON（極簡塊面美學）
+========================= */
+.enter {
+  margin-top: 50px; 
+  padding: 16px 60px; /* 大尺寸按鈕 */
+  border: none;
+  border-radius: 16px;
+
+  /* 俐落高對比：深夜藍黑底襯托白字 */
+  background: #0f172a; 
+  color: #ffffff; 
+  font-weight: 700;
+  font-size: 1.15rem; 
+  letter-spacing: 2px;
+  cursor: pointer;
+
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.15);
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.enter:hover {
+  transform: scale(1.04) translateY(-3px);
+  /* 懸停時順滑轉化為香檳金漸層，點亮整個純白空間 */
+  background: linear-gradient(135deg, #d97706, #f59e0b);
+  box-shadow: 0 20px 40px rgba(245, 158, 11, 0.35);
+}
+
+.omelette.handoff {
+  opacity: 0 !important;
+  transition: opacity 0.2s ease !important;
+}

@@ -2,7 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { styles, ActionButton } from '../Styles';
 
 /**
- * 使用 Vite 的 glob 功能自動 SCAN 資料夾
+ * 使用 Vite 的 glob 功能自動掃描資料夾
  */
 const dataModules = import.meta.glob('../data/*.json', { eager: true });
 
@@ -311,7 +311,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
   else if (degree > avgDegree && growthRate >= 0) {
     diagnosisTag = "高競爭密度且營收成長 (具結構性護城河)";
     statusColor = "#d97706";
-    strategyFocus = "深化核心品類權重，利用高市場主流度 (Closeness) 的網絡辐射效率進行防禦。";
+    strategyFocus = "深化核心品類權重，利用高市場主流度 (Closeness) 的網絡輻射效率進行防禦。";
   } 
   else if (degree <= avgDegree && growthRate < 0) {
     diagnosisTag = "低競爭密度但營收衰退 (業態邊緣化警訊)";
@@ -343,7 +343,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
         <div style={{ fontWeight: 'bold', color: '#1e40af', fontSize: '0.88rem' }}>2. 市場跨度 (Eccentricity)</div>
         <p style={panelStyles.formulaText}>
           <strong>學術定義：</strong>該節點到網絡中距離最遠的其他節點之間的最短路徑步數（離心度）。<br />
-          <strong>商業白話：</strong>用來評估商家是否屬於<strong>「商圈邊緣人」</strong>。Eccentricity 數值越小，代表商家越處於整個市場群落的地理核心；數值越大，代表其業態或位置高度邊緣化，越需要依賴 Hub 節點引流。
+          <strong>商業白話：</strong>用來評估商家是否屬於<strong>「商圈邊緣人」</strong>。市場跨度(Eccentricity) 數值越小，代表商家越處於整個市場群落的地理核心；數值越大，代表其業態或位置高度邊緣化，越需要依賴 Hub 節點引流。
         </p>
       </div>
 
@@ -351,7 +351,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
         <div style={{ fontWeight: 'bold', color: '#1e40af', fontSize: '0.88rem' }}>3. 市場主流度 (Closeness)</div>
         <p style={panelStyles.formulaText}>
           <strong>學術定義：</strong>該節點到網絡中所有其他節點最短路徑距離之平均值的倒數（接近中心度）。<br />
-          <strong>商業白話：</strong>代表該商家<strong>「滲透整個商圈網絡的平均效率」</strong>。Closeness 越高，意味著它與商圈內其他業態店家的拓撲距離越近，具有極高的地理輻射與服務大盤客群的主流優势。
+          <strong>商業白話：</strong>代表該商家<strong>「滲透整個商圈網絡的平均效率」</strong>。市場主流度(Closeness) 越高，意味著它與商圈內其他業態店家的拓撲距離越近，具有極高的地理輻射與服務大盤客群的主流優勢。
         </p>
       </div>
 
@@ -359,7 +359,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
         <div style={{ fontWeight: 'bold', color: '#1e40af', fontSize: '0.88rem' }}>4. 正規化中介度 (Betweenness)</div>
         <p style={panelStyles.formulaText}>
           <strong>學術定義：</strong>衡量節點在網路中處於其他所有點對最短路徑上的頻率比率(已正規化)。<br />
-          <strong>商業解讀：</strong>象徵商家的<strong>「核心路徑控制力」</strong>。本系統已將 Gephi 產出的絕對路徑計數進行正規化（排除總節點規模帶來的基數通膨，壓縮至 0~1），用以客觀對比各商家在群落中掌控跨區流量的相對重要程度。Betweenness 高的商家就像是交通要道上的收費站，是連接不同消費族群、同業、或子商圈的必經樞紐，具備極強的流量掌控力與生態話語權。
+          <strong>商業解讀：</strong>象徵商家的<strong>「核心路徑控制力」</strong>。本系統已將 Gephi 產出的絕對路徑計數進行正規化（排除總節點規模帶來的基數通膨，壓縮至 0~1），用以客觀對比各商家在群落中掌控跨區流量的相對重要程度。中介度(Betweenness) 高的商家就像是交通要道上的收費站，是連接不同消費族群、同業、或子商圈的必經樞紐，具備極強的流量掌控力與生態話語權。
         </p>
       </div>
     </div>
@@ -411,7 +411,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
           <h2 style={{ ...styles.heading2, marginBottom: '5px', marginTop: 0 }}>六. 智慧診斷與決策模擬面板</h2>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexWrap: 'wrap' }}>
             <span style={{ fontSize: '1.2rem', color: '#b45309', fontWeight: 'bold' }}>
-              📍 當前商家：{merchantInfo.label || merchantInfo['品牌-餐廳名稱'] || selectedMerchant}
+              當前商家：{merchantInfo.label || merchantInfo['品牌-餐廳名稱'] || selectedMerchant}
             </span>
             <span style={{ ...panelStyles.statusBadge, backgroundColor: statusColor }}>
               {diagnosisTag}
@@ -484,8 +484,8 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
                   <div className="custom-tooltip">
                     市場正規化中介度 (Betweenness)
                     <span className="tooltip-text">
-                      <span className="tooltip-title">💡 正規化學術說明</span>
-                      此數值已透過演算法進行標準化處理（區間為 0～1）。中介度越高，代表該商家在複雜的市場網路中，越居於「咽喉要道」的關鍵位置。
+                      <span className="tooltip-title">💡 概念說明</span>
+                      此數值已透過演算法進行正規化處理（區間為 0～1）。中介度越高，代表該商家在複雜的市場網路中，越居於「咽喉要道」的關鍵位置。
                     </span>
                   </div>
                 </td>
@@ -569,7 +569,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
               該商家的局域拓撲競爭密度 (Degree) 為 {degree}，已顯著超越市場大盤平均值 ({avgDegree.toFixed(1)})，意味著在二元鄰接矩陣 A_ij 的定義下（此處 A_ij 代表兩商家間的替代連線狀態），該店家在相同的品項分類與心理價格閾值 (α ≤ 10%) 內，與商圈內極多商家發生了實質替代關係，拓撲連線極度稠密。配合其財務觀測值（營收成長率：{(growthRate * 100).toFixed(2)}%）呈現衰退，實證該局部集群已陷入高度同質化的「紅海內耗陷阱」。{"\n\n"}
               【決策生成邏輯】{"\n"}
               ■ 依據韋伯定律 (Weber's Law)，消費者對價差的感知取決於相對比例而非絕對金額。當前該商家與周圍節點的相對客單價差正好位於大腦的「模糊替代區」內。{"\n"}
-              ■ 結合展望理論 (Prospect Theory)，消費者在面臨同質選擇時對微小損失（如多付 5-10 元）極度敏感，導致流量與客源被周圍高 Degree 節點嚴重稀釋。{"\n"}
+              ■ 結合展望理論 (Prospect Theory)，消費者在面臨同質選擇時對微小損失（如多付 5-10 元）極度敏感，導致流量與客源被周圍高 競爭密度(Degree) 節點嚴重稀釋。{"\n"}
               ■ 系統之所以給出此診斷，代表一味地調低價格並無法擴大市場份額，反而會加劇該拓撲聚類的全面塌陷。{"\n"}
               ■ 最優解為「拉高定價以促成心理帳戶的階層躍遷」：透過重組產品矩陣，將客單價主動拉開至大於基準價的 10% 以上，在群落拓撲上將 A_ij 競爭邊強制歸零 (A_ij = 0)，主動切斷與紅海對手的直接連結，轉向高客單、低密度的藍海腹地。
             </p>
@@ -581,7 +581,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
               本節點雖深處競爭密度 (Degree: {degree}) 高於平均值 ({avgDegree.toFixed(1)}) 的核心紅海聚類中，但其營收成長率卻逆勢保持正增長 ({(growthRate * 100).toFixed(2)}%)。在社會網絡分析中，這是一種典型的「強勢中心節點」特徵。這說明該商家雖然在幾何空間或價格帶上面臨大量同質對手的包圍，但其在商圈中具備強大的品牌錨定效應或地理選址優勢。{"\n\n"}
               【決策生成邏輯】{"\n"}
               ■ 此時系統引入市場主流度 (Closeness Centrality: {closeness?.toFixed(5) || '無'}) 進行交叉驗證。{"\n"}
-              ■ Closeness 指標越高，代表該節點與網絡中所有其他商家的拓撲距離平均最短，具備極高的資訊與流量輻射效率。{"\n"}
+              ■ 市場主流度(Closeness) 指標越高，代表該節點與網絡中所有其他商家的拓撲距離平均最短，具備極高的資訊與流量輻射效率。{"\n"}
               ■ 數據實證該商家已在消費者心中建立起穩固的「主要心理帳戶 (Mental Accounting)」，消費者將其視為該品類的預算首選基準。{"\n"}
               ■ 因此，系統給出的戰略結果並非逃離該戰區，而是應利用現有的高效拓撲位置，進一步深化核心產品的防護牆，防止周邊新進邊緣節點透過隨機效用的微小波動（如偶發性促銷或平台隨機推薦）蠶食現有份額。
             </p>
@@ -590,11 +590,11 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
           {hasEnoughForDiagnosis && degree <= avgDegree && growthRate < 0 && (
             <p style={{ whiteSpace: 'pre-line', margin: 0 }}>
               【診斷依據與論證】{"\n"}
-              該商家的局域競爭密度 (Degree: {degree}) 低於大盤平均 ({avgDegree.toFixed(1)})，表面上在同等價差閾值內開門迎戰的直接對手較少，然而其營收成長率卻呈現負成長 ({(growthRate * 100).toFixed(2)}%)。在圖論拓撲中，當一個節點同時展現出低 Degree 與高市場跨度 (Eccentricity: {eccentricity || '無'}) 時，系統便會觸發「業態邊緣化（地理或品類孤島）」的結構性警訊。{"\n\n"}
+              該商家的局域競爭密度 (Degree: {degree}) 低於大盤平均 ({avgDegree.toFixed(1)})，表面上在同等價差閾值內開門迎戰的直接對手較少，然而其營收成長率卻呈現負成長 ({(growthRate * 100).toFixed(2)}%)。在圖論拓撲中，當一個節點同時展現出低 競爭密度(Degree) 與高市場跨度 (Eccentricity: {eccentricity || '無'}) 時，系統便會觸發「業態邊緣化（地理或品類孤島）」的結構性警訊。{"\n\n"}
               【決策生成邏輯】{"\n"}
               ■ 這實證了該商家並非是因為定價過高而被淘汰，而是陷入了隨機效用模型 (Random Utility) 中的「資訊盲區」。{"\n"}
               ■ 在消費者的決策路徑中，該商家與主流商圈集群的拓撲距離過遠，導致其在消費者的替代選擇清單中完全隱形，無法分配到商圈大盤的自然流量紅利。{"\n"}
-              ■ 此時該商家自身的正規化中介度 (Betweenness: {betweenness?.toFixed(6) || '0.000000'}) 遠低於系統認定的戰略咽喉臨界值（常規商圈基準為 Betweenness 0.01，即大盤前 10% 的樞紐），說明其完全不具備自主跨區引流或阻截客源的能力。{"\n"}
+              ■ 此時該商家自身的正規化中介度 (Betweenness: {betweenness?.toFixed(6) || '0.000000'}) 遠低於系統認定的戰略咽喉臨界值（常規商圈基準為 正規化中介度(Betweenness) 0.01，即大盤前 10% 的樞紐），說明其完全不具備自主跨區引流或阻截客源的能力。{"\n"}
               ■ 系統給出此診斷結果的核心邏輯在於：此時盲目降價將無法刺激需求，因為根本問題在於「曝光路徑的斷裂」。商家必須主動尋找網絡中中介度高於 0.01、甚至高於 0.05（前 2% 絕對咽喉）的非競爭互補業態 Hub 節點進行聯合引流，強制將自身節點掛載回主流群落的交通咽喉上。
             </p>
           )}
@@ -613,7 +613,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
                 結構洞 (Structural Holes)
                 <span className="tooltip-text">
                   <span className="tooltip-title">💡 正規化學術說明</span>
-                  由社會學家 Burt 提出，指非重複群落（集群）間存在的稀疏空隙。佔據結構洞的店家（高 Betweenness）能作為跨通路、跨商圈流量轉發之戰略咽喉，具備高防禦效應與壟斷溢價話語權。
+                  由 羅納德·斯圖亞特·伯特 提出，指非重複群落（集群）間存在的稀疏空隙。佔據結構洞的店家（高 Betweenness）能作為跨通路、跨商圈流量轉發之戰略咽喉，具備高防禦效應與壟斷溢價話語權。
                 </span>
               </span>
               
@@ -636,7 +636,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
           <div style={panelStyles.actionCard}>
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
               <strong> 價格帶同質性衝擊模擬(排除地理因子)</strong>
-              <span style={panelStyles.actionTag}>基於 Closeness 基準價</span>
+              <span style={panelStyles.actionTag}>基於 市場主流度(Closeness) 基準價</span>
             </div>
             <p style={{ margin: '8px 0 15px 0', fontSize: '0.85rem', color: '#4b5563', lineHeight: '1.5' }}>
               {marketBaselinePrice !== null
@@ -668,7 +668,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
           <div style={panelStyles.actionCard}>
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
               <strong> 群落緩衝區非競爭核心節點對接</strong>
-              <span style={panelStyles.actionTag}>基於正規化中介度</span>
+              <span style={panelStyles.actionTag}>基於 正規化中介度(Betweenness)</span>
             </div>
             <p style={{ margin: '8px 0 15px 0', fontSize: '0.85rem', color: '#4b5563', lineHeight: '1.5' }}>
               系統主動<b>篩選在同一業態網路中，與您沒有直接競爭連線（空間地理或價差隔離）的頂尖樞紐店家</b>。提供高價值的跨商圈連鎖擴展參考與核心營運標竿借鑑。
@@ -772,7 +772,7 @@ const DiagnosticPanel = ({ selectedMerchant, setSelectedMerchant, selectedKey = 
                         正規化中介度 (Betweenness) : {partner.betweenness.toFixed(6)}
                         <span className="tooltip-text">
                           <span className="tooltip-title">💡 圖論指標轉化</span>
-                          此數值已透過演算法進行標準化處理（區間為 0～1）。中介度越高，代表該商家在複雜的市場網路中，越居於「咽喉要道」的關鍵位置。您不僅是不同客群、商圈流動的橋樑，更具備高度的市場發話權與通路掌控力。
+                          此數值已透過演算法進行正規化處理（區間為 0～1）。中介度越高，代表該商家在複雜的市場網路中，越居於「咽喉要道」的關鍵位置。您不僅是不同客群、商圈流動的橋樑，更具備高度的市場發話權與通路掌控力。
                         </span>
                       </div>
                     </div>

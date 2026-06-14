@@ -103,7 +103,7 @@ const Methodology = () => {
         <div style={theoryCardStyle}>
           <strong style={theoryTitleStyle}>心理帳戶 (Mental Accounting)</strong>
           <p style={{ fontSize: '0.9rem', lineHeight: '1.6' }}>
-            在進行消費決策時，傾向將預算分配至不同的虛擬帳戶中。10% 內兩者會被歸於同一個心理帳戶，形成預算替代關係。反之，將發生<b style={{ color: '#b45309' }}>階層躍遷</b>，不再具備直接替代性。
+            在進行消費決策時，傾向將預算分配至不同的虛擬帳戶中。10% 內兩者會被歸於同一個心理帳戶，形成預算替代關係。反之，將發生階層躍遷，不再具備直接替代性。
           </p>
         </div>
         

@@ -390,7 +390,7 @@ const MetaNetwork = () => {
 
       <div style={tablePanelStyle}>
         <div style={tableTitleBarStyle}>
-          <strong style={{ color: '#b45309' }}>📋 2023 餐飲業態關係矩陣</strong>
+          <strong style={{ color: '#b45309' }}> 2023 餐飲業態關係矩陣</strong>
           <span style={{ fontSize: '0.78rem', color: '#78350f' }}>
             依網絡規模排序
           </span>

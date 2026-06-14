@@ -76,7 +76,7 @@ const Home = ({ scrollToSection }) => {
           <div style={{ fontSize: '2rem', marginBottom: '1rem' }}>🔍</div>
           <strong style={{ color: '#854d0e', fontSize: '1.2rem', fontWeight: '800' }}>痛點診斷</strong>
           <p style={{ fontSize: '1rem', lineHeight: '1.7', margin: '0.8rem 0 0 0', color: '#57534e' }}>
-            我們從全台灣市場 <Term title="指肚肚 POS 平台上目前收錄的 19 種餐飲分類">19 種餐飲業態</Term> 的交織網絡出發，觀察潛在的結構性風險。
+            我們從全台灣市場 <Term title="指肚肚平台上目前收錄的 19 種餐飲分類">19 種餐飲業態</Term> 的交織網絡出發，觀察潛在的結構性風險。
           </p>
         </div>
 
@@ -92,7 +92,7 @@ const Home = ({ scrollToSection }) => {
           <div style={{ fontSize: '2rem', marginBottom: '1rem' }}>🤝</div>
           <strong style={{ color: '#854d0e', fontSize: '1.2rem', fontWeight: '800' }}>平台策略</strong>
           <p style={{ fontSize: '1rem', lineHeight: '1.7', margin: '0.8rem 0 0 0', color: '#57534e' }}>
-            為 <b>肚肚 (Dudoo POS)</b> 導入餐飲業大數據，優化商戶策略與定價模型。
+            為 <b>肚肚 (Dudoo)</b> 導入餐飲業大數據，優化商戶策略與定價模型。
           </p>
         </div>
 
