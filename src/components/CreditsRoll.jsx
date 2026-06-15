@@ -64,7 +64,7 @@ export default function CreditsRoll({ onClose }) {
 
         <div style={movieStyles.creditsGroup}>
           <div style={movieStyles.row}><span style={movieStyles.role}>大數據平台提供 / Data Source</span><span style={movieStyles.name}>肚肚智慧餐飲平台</span></div>
-          <div style={movieStyles.row}><span style={movieStyles.role}>技術支援 / Core Stack</span><span style={movieStyles.name}>胡筱葳 教授</span></div>
+          <div style={movieStyles.row}><span style={movieStyles.role}>技術支援 / Core Stack</span><span style={movieStyles.name}>胡筱薇 教授</span></div>
           <div style={movieStyles.row}><span style={movieStyles.role}>動畫美學 / Motion Design</span><span style={movieStyles.name}>方立</span></div>
         </div>
 
