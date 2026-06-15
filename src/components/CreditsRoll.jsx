@@ -46,7 +46,7 @@ export default function CreditsRoll({ onClose }) {
 
         {/* 📋 職群與名單 */}
         <div style={movieStyles.creditsGroup}>
-          <div style={movieStyles.row}><span style={movieStyles.role}>指導教授 / Advisor</span><span style={movieStyles.name}>胡筱葳 教授</span></div>
+          <div style={movieStyles.row}><span style={movieStyles.role}>指導教授 / Advisor</span><span style={movieStyles.name}>胡筱薇 教授</span></div>
           <div style={movieStyles.row}><span style={movieStyles.role}>出品單位 / Presenter</span><span style={movieStyles.name}>Team Omelette</span></div>
           <div style={movieStyles.row}><span style={movieStyles.role}>學術專門 / Major</span><span style={movieStyles.name}>中原大學 智慧運算與大數據學士班</span></div>
         </div>
